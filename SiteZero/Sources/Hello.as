@@ -16,7 +16,7 @@ package {
 			un commentaire 
 			sur plusieurs lignes
 			Il faut bien ouvrir et fermer
-			le commentaire */
+			le commentaire  */
 
 			trace("Hello World !!");
 
